@@ -1,0 +1,130 @@
+/*Created with Adobe RoboHelp.*/
+.RH-LAYOUT-CENTERPANEL-topic-box {
+  font-family: Calibri;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box h1, .RH-LAYOUT-FOOTER-container h1 {
+  font-weight: bold;
+  font-size: 24.0pt;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box h2, .RH-LAYOUT-FOOTER-container h2 {
+  font-weight: bold;
+  font-size: 18.0pt;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box h3, .RH-LAYOUT-FOOTER-container h3 {
+  font-weight: bold;
+  font-size: 14.0pt;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box h4, .RH-LAYOUT-FOOTER-container h4 {
+  font-weight: bold;
+  font-size: 12.0pt;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box h5, .RH-LAYOUT-FOOTER-container h5 {
+  font-weight: bold;
+  font-size: 10.0pt;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box h6, .RH-LAYOUT-FOOTER-container h6 {
+  font-weight: bold;
+  font-size: 8.0pt;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box p, .RH-LAYOUT-FOOTER-container p {
+  font-size: 11.0pt;
+  margin-top: 4.0pt;
+  margin-bottom: 4.0pt;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.expandspot, .RH-LAYOUT-FOOTER-container a.expandspot {
+  color: #008000;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box span.expandtext, .RH-LAYOUT-FOOTER-container span.expandtext {
+  font-style: italic;
+  font-weight: normal;
+  color: #ff0000;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.dropspot, .RH-LAYOUT-FOOTER-container a.dropspot {
+  cursor: pointer;
+  color: #008000;
+  font-style: italic;
+  text-decoration: none;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.glossterm, .RH-LAYOUT-FOOTER-container a.glossterm {
+  color: #800000;
+  cursor: pointer;
+  font-style: italic;
+  text-decoration: none;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box span.glosstext, .RH-LAYOUT-FOOTER-container span.glosstext {
+  font-style: italic;
+  font-weight: normal;
+  color: #0000ff;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol, .RH-LAYOUT-FOOTER-container ol {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ul, .RH-LAYOUT-FOOTER-container ul {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.minitoc-caption, .RH-LAYOUT-FOOTER-container a.minitoc-caption {
+  text-decoration: none;
+  color: initial;
+  font-weight: bold;
+  font-size: 12pt;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box p.minitoc-caption, .RH-LAYOUT-FOOTER-container p.minitoc-caption {
+  font-weight: bold;
+  font-size: 12pt;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.minitoc-list, .RH-LAYOUT-FOOTER-container ol.minitoc-list {
+  padding-left: 0;
+  margin-left: 0;
+  list-style: none;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.minitoc-list ol, .RH-LAYOUT-FOOTER-container ol.minitoc-list ol {
+  list-style: none;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.minitoc-list-item, .RH-LAYOUT-FOOTER-container a.minitoc-list-item {}
+.RH-LAYOUT-CENTERPANEL-topic-box div.breadcrumbs, .RH-LAYOUT-FOOTER-container div.breadcrumbs {}
+.RH-LAYOUT-CENTERPANEL-topic-box span.breadcrumbs-home-prefix, .RH-LAYOUT-FOOTER-container span.breadcrumbs-home-prefix {}
+.RH-LAYOUT-CENTERPANEL-topic-box a.breadcrumbs-home, .RH-LAYOUT-FOOTER-container a.breadcrumbs-home {}
+.RH-LAYOUT-CENTERPANEL-topic-box .breadcrumbs-separator, .RH-LAYOUT-FOOTER-container .breadcrumbs-separator {}
+.RH-LAYOUT-CENTERPANEL-topic-box a.breadcrumbs-link, .RH-LAYOUT-FOOTER-container a.breadcrumbs-link {}
+.RH-LAYOUT-CENTERPANEL-topic-box a.breadcrumbs-topic, .RH-LAYOUT-FOOTER-container a.breadcrumbs-topic {}
+.RH-LAYOUT-CENTERPANEL-topic-box p.seealso-caption, .RH-LAYOUT-FOOTER-container p.seealso-caption {
+  font-weight: bold;
+  font-size: 12pt;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #77a77d;
+  border-left-width: 1px;
+  border-left-style: solid;
+  border-left-color: #77a77d;
+  border-top-width: 1px;
+  border-top-style: solid;
+  border-top-color: #77a77d;
+  border-right-width: 1px;
+  border-right-style: solid;
+  border-right-color: #77a77d;
+  border-bottom-width: 1px;
+  border-bottom-style: solid;
+  border-bottom-color: #77a77d;
+  background-color: #d8f9da;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.seealso-list, .RH-LAYOUT-FOOTER-container ol.seealso-list {
+  padding-left: 0;
+  margin-left: 0;
+  list-style: none;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.seealso-list-item, .RH-LAYOUT-FOOTER-container a.seealso-list-item {}
+.RH-LAYOUT-CENTERPANEL-topic-box p.reltopics-caption, .RH-LAYOUT-FOOTER-container p.reltopics-caption {
+  font-weight: bold;
+  font-size: 12pt;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box ol.reltopics-list, .RH-LAYOUT-FOOTER-container ol.reltopics-list {
+  padding-left: 0;
+  margin-left: 0;
+  list-style: none;
+}
+.RH-LAYOUT-CENTERPANEL-topic-box a.reltopics-list-item, .RH-LAYOUT-FOOTER-container a.reltopics-list-item {}

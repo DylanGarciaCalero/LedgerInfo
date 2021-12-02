@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ppfml version="2.00" project="Ledger Jadetree 1.0" type="4">
+  <contextmap>
+    
+  </contextmap>
+  <topiclist defaulttopic="Introduction.htm">
+    
+    <topic>
+      Introduction.htm
+    </topic>
+    
+    <topic>
+      Understanding_what_Ledger_can_do.htm
+    </topic>
+    
+    <topic>
+      How_to_access_Ledger_online.htm
+    </topic>
+    
+    <topic>
+      Setting_up_your_account.htm
+    </topic>
+    
+    <topic>
+      Resetting_your_password.htm
+    </topic>
+    
+    <topic>
+      Protecting_your_account.htm
+    </topic>
+    
+    <topic>
+      Changing_your_email_address.htm
+    </topic>
+    
+    <topic>
+      Clearing_your_cache_and_cookies.htm
+    </topic>
+    
+    <topic>
+      Understanding_the_homepage.htm
+    </topic>
+    
+    <topic>
+      Navigating_through_the_main_menu.htm
+    </topic>
+    
+    <topic>
+      Understanding_your_recent_spending.htm
+    </topic>
+    
+    <topic>
+      Customizing_your_in-app_homepage_view.htm
+    </topic>
+    
+    <topic>
+      Managing_categories.htm
+    </topic>
+    
+    <topic>
+      Adding_a_recent_transaction.htm
+    </topic>
+    
+    <topic>
+      Viewing_transactions_by_a_date_range.htm
+    </topic>
+    
+    <topic>
+      Editing_your_transactions.htm
+    </topic>
+    
+    <topic>
+      Deleting_you_account.htm
+    </topic>
+    
+    <topic>
+      Budgeting_your_money.htm
+    </topic>
+    
+    <topic>
+      Setting_up_a_savings_goal.htm
+    </topic>
+    
+    <topic>
+      Removing_a_savings_goal.htm
+    </topic>
+    
+    <topic>
+      Best_practices_for_achieving_your_saving_goals.htm
+    </topic>
+    
+    <topic>
+      Viewing_your_spending_by_day,_week,_or_month.htm
+    </topic>
+    
+    <topic>
+      How_do_I_delete_my_personal_information.htm
+    </topic>
+    
+    <topic>
+      How_do_I_calculate_my_monthly_income_tax.htm
+    </topic>
+    
+    <topic>
+      Why_cant_I_connect_my_bank_account_directly_to_my_Ledger_account.htm
+    </topic>
+    
+    <topic>
+      Can_I_add_cryptocurrency_to_my_Ledger_account_to_track.htm
+    </topic>
+    
+    <topic>
+      How_do_I_calculate_my_net_worth.htm
+    </topic>
+    
+  </topiclist>
+  <filenamemap>
+    <filenameentry moniker="wh_languagetype">
+      <filename>
+        en_US
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="wh_stoplist">
+      <filename>
+        whxdata/stopwords.xml
+      </filename>
+    </filenameentry>
+    <filenameentry moniker="startpage">
+      <filename>
+        index.htm
+      </filename>
+    </filenameentry>
+        
+  </filenamemap>
+</ppfml>

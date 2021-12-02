@@ -1,0 +1,1 @@
+rh._.exports({"0":["Why can’t I connect my bank account directly to my Ledger account? "],"1":["Ledger is an application designed for manually entering your financial data. When you stick to a regular budget and manually track your expenses yourself, you develop better habits for spending. "],"2":["Why can’t I connect my bank account directly to my Ledger account? "],"id":"25"})

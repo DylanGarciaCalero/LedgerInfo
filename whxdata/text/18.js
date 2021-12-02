@@ -1,0 +1,1 @@
+rh._.exports({"0":["Removing a savings goal"],"1":["You may remove a savings goal at any time. To remove a savings goal, follow these steps:","In the homepage view, click Remove Goal.","Select Remove all savings info manually.","You will no longer see the savings goal."],"2":["Removing a savings goal"],"id":"18"})
