@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ppfml version="2.00" project="Ledger Jadetree 1.0" type="4">
+<ppfml version="2.00" project="Ledger Jadetree 1.0_final" type="4">
   <contextmap>
     
   </contextmap>
   <topiclist defaulttopic="Introduction.htm">
-    
-    <topic>
-      Introduction.htm
-    </topic>
     
     <topic>
       Understanding_what_Ledger_can_do.htm
@@ -50,10 +46,6 @@
     </topic>
     
     <topic>
-      Customizing_your_in-app_homepage_view.htm
-    </topic>
-    
-    <topic>
       Managing_categories.htm
     </topic>
     
@@ -82,10 +74,6 @@
     </topic>
     
     <topic>
-      Removing_a_savings_goal.htm
-    </topic>
-    
-    <topic>
       Best_practices_for_achieving_your_saving_goals.htm
     </topic>
     
@@ -94,7 +82,7 @@
     </topic>
     
     <topic>
-      How_do_I_delete_my_personal_information.htm
+      Why_cant_I_connect_my_bank_account_directly_to_my_Ledger_account.htm
     </topic>
     
     <topic>
@@ -102,7 +90,7 @@
     </topic>
     
     <topic>
-      Why_cant_I_connect_my_bank_account_directly_to_my_Ledger_account.htm
+      How_do_I_calculate_my_net_worth.htm
     </topic>
     
     <topic>
@@ -110,7 +98,11 @@
     </topic>
     
     <topic>
-      How_do_I_calculate_my_net_worth.htm
+      How_do_I_delete_my_personal_information.htm
+    </topic>
+    
+    <topic>
+      Introduction.htm
     </topic>
     
   </topiclist>

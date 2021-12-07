@@ -1,1 +1,0 @@
-rh._.exports({"0":["How do I calculate my net worth?"],"1":["Your net worth is the sum of your assets, minus the total of your liabilities. Calculating your net worth may or may not be beneficial to you. ","To calculate your net worth, visit: ","https://www.cchwebsites.com/content/calculators/CANetWorth.html",". "],"2":["How do I calculate my net worth?"],"id":"27"})
